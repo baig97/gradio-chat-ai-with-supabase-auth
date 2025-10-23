@@ -1,0 +1,4 @@
+.env
+.vscode/
+user_chat_history/
+**/__pycache__/
